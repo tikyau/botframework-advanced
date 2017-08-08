@@ -42,5 +42,4 @@ Note that analytics is now integrated into the Bot Framework dashboard portal as
 - Continuous speech to text and text to speech, if you want to communicate with the bot using voice - [link](https://github.com/davrous/BingSpeech)
 - Integration with SIP for VoIP - [link](https://github.com/alyssaong1/VoIPBot)
 
-### Additional gold nuggets
 - Adding rich attachments to QnAMakerDialog (C#) - [link](http://www.garypretty.co.uk/2017/02/23/adding-rich-attachments-to-your-qnamaker-bot-responses/)
